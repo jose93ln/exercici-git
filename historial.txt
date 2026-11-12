@@ -1,0 +1,5 @@
+* 233c108 afegir modul
+| * 5c8d3a2 afegir contacte
+|/  
+* 8bdc479 afegir gitignore
+* c905d98 Primer commit
